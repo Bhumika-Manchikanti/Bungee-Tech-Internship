@@ -1,0 +1,6 @@
+,product_code,product_description,product_group,sales_date,price,sales_quantity,unit,price_new
+10,1001,tomato,vegetable,2021-11-11,,20,kg,3.1210344827586214
+34,1002,cucumber,vegetable,2021-11-05,,24,kg,4.532857142857142
+37,1002,cucumber,vegetable,2021-11-08,,38,kg,4.532857142857142
+73,1003,onion,vegetable,2021-11-14,,39,kg,2.150714285714286
+74,1003,onion,vegetable,2021-11-15,,25,kg,2.150714285714286
